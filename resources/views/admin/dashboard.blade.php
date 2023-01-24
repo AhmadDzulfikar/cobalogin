@@ -1,1 +1,5 @@
-<h1>dkwd</h1>
+@extends('layouts.master')
+
+@section('content')
+
+@endsection

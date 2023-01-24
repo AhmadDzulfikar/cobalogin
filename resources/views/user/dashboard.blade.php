@@ -1,1 +1,5 @@
-<h1>nur lai</h1>
+@extends('layouts.master')
+
+@section('content')
+
+@endsection
